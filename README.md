@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohomo70
 - 👀 I’m interested in front-end dev
-- 🌱 I’m currently learning ...
+- 🌱 I have +2 years experience in developing react apps
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me mhmohammadi991@gmail.com
 
