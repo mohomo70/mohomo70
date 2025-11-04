@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohomo70
 - 👀 Passionate **Full-Stack Developer** building scalable, high-performance applications.  
 - 🚀 I enjoy working across the stack, from intuitive **frontend UIs** to robust **backend APIs**, and deploying them with modern **DevOps tools**.
-- 🔭 Currently working on scalable web apps with **React, Next.js, Django, and FastAPI**
+- 🔭 Currently working on scalable web apps with **React, Next.js and Django**
 - 🌱 I have +4 years experience in developing web apps
 - 💞️ I’m looking to collaborate on data intensive apps 
 - 📫 How to reach me mhmohammadi991@gmail.com
